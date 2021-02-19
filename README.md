@@ -1,5 +1,5 @@
 # vue-horizontal-tree
-
+A horizontal tree diagram builder made with Vue.js and HTML Drag&amp;Drop API
 ## Project setup
 ```
 npm install
@@ -21,4 +21,3 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
